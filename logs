@@ -1,0 +1,41 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PS C:\Users\юля\Desktop\дляGit\Antoshka>
+
+* main
+  vetka
+  
+  commit 98909f102ce827ccb67c12af15bc04fcbfe9070b (HEAD -> main, origin/main)
+Author: Iuliia Kernitska <129670292+Iuliia159@users.noreply.github.com>
+Date:   Sun May 14 17:57:17 2023 +0300
+
+    Create index.css
+
+commit e5d33545a8d951b5bd9a745b658b35165e0a94ea
+Merge: 7c07aa3 84f6566
+Author: Iuliia Kernitska <129670292+Iuliia159@users.noreply.github.com>
+Date:   Sun May 14 17:52:37 2023 +0300
+
+    Merge branch 'vetka' into main
+
+commit 7c07aa3a37bb0056ef94c77b7822e769600843f1
+Author: Kernitska Iuliia <kernitskaiuliia@gmail.com>
+Date:   Sun May 14 17:44:50 2023 +0300
+
+    add new paragraph
+
+commit 84f65662f0587bd925a4ee9402a8535a4672276b (origin/vetka, vetka)
+Author: Kernitska Iuliia <kernitskaiuliia@gmail.com>
+Date:   Sun May 14 16:50:21 2023 +0300
+
+    edited sentense text
+:
+
+commit e5d33545a8d951b5bd9a745b658b35165e0a94ea
+Merge: 7c07aa3 84f6566
+Author: Iuliia Kernitska <129670292+Iuliia159@users.noreply.github.com>
+Date:   Sun May 14 17:52:37 2023 +0300
+
+    Merge branch 'vetka' into main
